@@ -1,6 +1,6 @@
 # Tic-Tac-Toe Starting Project
 
-This is a simple Tic-Tac-Toe game built using React, following along with a course: [React - The Complete Guide 2025 (incl. Next.js, Redux)].
+This is a simple Tic-Tac-Toe game built using React, following along with a course: [React - The Complete Guide 2025 (incl. Next.js, Redux)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/).
 
 ## 🧠 Purpose
 
